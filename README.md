@@ -20,10 +20,6 @@
   </a>
   <a href="https://medium.com/@mohitkaushik4567" target="_blank">
     <img src="https://img.shields.io/badge/Medium-Blog_%26_Articles-0F172A?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://mk1404.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub_Pages-Web_CV-1E8449?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages" />
-  </a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MK1404.MK1404&left_color=%230F172A&right_color=%23C9A84C" alt="Visitor Count" />
 </p>
 
